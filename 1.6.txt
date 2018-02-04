@@ -1,0 +1,11 @@
+Aðferð til að endurtaka teikni aðferðina 72° snúning til hægri og svo 100 áfram fimm sinnum
+
+pen purple
+
+sides = 5
+
+for [1..sides]
+  
+rt 72
+
+fd 100
